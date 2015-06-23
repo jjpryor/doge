@@ -17,7 +17,8 @@ from os.path import dirname, join
 from doge import wow
 
 ROOT = join(dirname(__file__), 'static')
-DEFAULT_DOGE = 'doge.txt'
+DEFAULT_DOGE = 'wuf.txt'
+#DEFAULT_DOGE = 'doge.txt'
 
 
 class Doge(object):

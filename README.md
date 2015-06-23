@@ -1,12 +1,14 @@
 doge
 ====
 
-![wow screenshot](http://i.imgur.com/HxH9qka.png)
+![wow screenshot](http://i.imgur.com/Ks1vpKh.jpg)
 
 
 **doge** is a simple motd script based on the slightly stupid but very funny
 [doge meme][doge]. It prints random grammatically incorrect statements that are
 sometimes based on things from your computer.
+
+**This is a quick & dirty fork** from [doge] to add Mr Wuf.
 
 For more information about getting a setup like the one in the screenshot, see
 [this dotfiles repo][shameless].
