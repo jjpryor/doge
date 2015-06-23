@@ -8,7 +8,7 @@ doge
 [doge meme][doge]. It prints random grammatically incorrect statements that are
 sometimes based on things from your computer.
 
-**This is a quick & dirty fork** from [doge] to add Mr Wuf.
+**This is a quick & dirty fork** from [doge upstream] to add Mr Wuf.
 
 For more information about getting a setup like the one in the screenshot, see
 [this dotfiles repo][shameless].
@@ -51,3 +51,4 @@ The terminal Shibe was created with hax0r Gimp skills and [img2xterm][i2x].
 [hom3chuk]: https://github.com/hom3chuk
 [lolcat]: https://github.com/busyloop/lolcat
 [shameless]: https://github.com/thiderman/dotfiles
+[doge upstream]: https://github.com/thiderman/doge
